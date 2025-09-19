@@ -85,4 +85,12 @@ a:hover {
 }
 
 a:active {
-  color: brown; } /* Paso 79 - marrón al presionar *
+
+  color: brown; }
+
+.icon {
+  display: block;
+  margin: 0 auto 15px auto;
+  width: 50px;
+  height: auto;
+}
